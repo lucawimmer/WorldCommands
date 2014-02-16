@@ -1,0 +1,10 @@
+name: WorldCommands
+main: de.lucawimmer.worldcommands.main
+version: 1.0
+authors:
+ - magl1te
+description: Execute a command when a world is loaded
+commands:
+  worldcommands:
+    description: Command to reload WorldCommands configuration file
+    usage: /worldcommands 

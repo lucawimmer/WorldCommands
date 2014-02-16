@@ -1,0 +1,11 @@
+# This is the default config file for WorldCommands. Some examples: 
+#worlds:
+#  - 'world: townychat reload'
+#  - 'DIM1: reloadbanneditems'
+#  - 'world_end: reloadbanneditems'
+#  - 'Farmwelt: reloadbanneditems'
+#  - 'DIM-1: reloadbanneditems'
+#  - 'DIM7: reloadbanneditems'
+#  - 'world_the_end: reloadbanneditems'
+#  - 'builder: reloadbanneditems'
+#  - 'world: say World loaded succesully..'
